@@ -4,7 +4,7 @@ euclid_probe, klicky_macro, auto_z_calibration
 euclid
 https://github.com/nionio6915/Euclid_Probe
 
-klicky
+klicky macro
 https://github.com/jlas1/Klicky-Probe
 
 auto_z_calibration
